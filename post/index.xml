@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Bruno Vinicius Nonato</title>
+    <link>https://bruno154.github.io/Bruno_Portfolio/post/</link>
+    <description>Recent content in Projects on Bruno Vinicius Nonato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jul 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://bruno154.github.io/Bruno_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project I - WineClassifier</title>
+      <link>https://bruno154.github.io/Bruno_Portfolio/post/project-1/</link>
+      <pubDate>Fri, 24 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://bruno154.github.io/Bruno_Portfolio/post/project-1/</guid>
+      <description>What to expect in this project:  Created a tool to help decision makers to improve the Wine.com.br product mix and the customers engagement. Scraped data of over 500 wines on sale at Wine.com.br. Storaged the data on Postgres with &amp;lsquo;sku&amp;rsquo; as primary key. Engineered features according to the wine production process. Such as if the wine as storaged in inox containers or concrete. Bult a cliente app with streamlit.    For code and more details: Link to Github repository:</description>
+    </item>
+    
+    <item>
+      <title>Project II - Santander Customers Satisfaction</title>
+      <link>https://bruno154.github.io/Bruno_Portfolio/post/project-2/</link>
+      <pubDate>Thu, 23 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://bruno154.github.io/Bruno_Portfolio/post/project-2/</guid>
+      <description>What to expect in this project:  Created a model to estimate de satisfaction of Santander Clients. Data collected from Kaggle. Pre processing of features applying SMOTE , MinMaxScale, PCA Model selection between Logistic Regression, Linear Discriminant Analysis, Decision Trees Random Forest, Sthocastic Gradient Descent. Tunning of Hyperparameters and learning curves analysis. Final Model Trainnig and explicability.    For code and more details: Link to Github repository:</description>
+    </item>
+    
+    <item>
+      <title>Project III - Classify forest types - Multiclass Classification Problem</title>
+      <link>https://bruno154.github.io/Bruno_Portfolio/post/project-3/</link>
+      <pubDate>Wed, 22 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://bruno154.github.io/Bruno_Portfolio/post/project-3/</guid>
+      <description>What to expect in this project:  Understand the problem . Eda of the data. feature engineering - Distance based features and GaussianMixture to generate a new feature. Model selection between LigthGBM, Random Florest, Xgboost, Stacking. Tunning of Hyperparameters and learning curves analysis. Best submission 77th place.    For code and more details: Link to Github repository:</description>
+    </item>
+    
+  </channel>
+</rss>
